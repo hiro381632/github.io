@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background: gold;
+    text-align: center;
+    padding: 30px;
+}
+#ariake img {
+    text-align: center;
+    padding: 30px;
+    width: 50%;
+}
+#today{
+    background: gold;
+    text-align: center;
+    padding: 100px;
+}
+#today h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+#KEANZU{
+    background: rgba(255, 255, 255, 0.829);
+    text-align: center;
+    padding: 30%;
+}
+footer{
+    background: rgba(213, 37, 37, 0.829);
+    text-align: center;
+    padding: 30px;
+}
+asaide{
+    background: white;
+    text-align: center;
+    padding: 30px;
+}
+div{
+    background: rgba(213, 37, 37, 0.829);
+    text-align: center;
+    padding: 30px;
+}
